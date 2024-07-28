@@ -1,50 +1,12 @@
-# Welcome to your Expo app 👋
+# SkinCareAI 🌟
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+SkinCareAI is an innovative app designed to help you maintain healthy and radiant skin. Using advanced machine learning algorithms and computer vision, SkinCareAI can detect various skin conditions and recommend the best skin care products tailored to your needs.
 
-## Get started
+## Features ✨
 
-1. Install dependencies
+- **Skin Disease Detection** 🩺: Analyze images of your skin to identify potential skin conditions.
+- **Personalized Recommendations** 🎯: Receive customized skin care product suggestions based on your skin type and detected conditions.
+- **User-Friendly Interface** 🌐: Easy-to-navigate interface designed for users of all ages.
+- **Regular Updates** 🔄: Stay updated with the latest skin care tips and product recommendations.
+- **Secure and Private** 🔒: Your data is securely stored and never shared with third parties.
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
