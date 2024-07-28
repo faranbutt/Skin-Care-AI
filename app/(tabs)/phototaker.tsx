@@ -9,7 +9,7 @@ import {
   View,
 } from "react-native";
 
-export default function App() {
+export default function PhotoTaker() {
   const [facing, setFacing] = useState<CameraType>("back");
   const [permission, requestPermission] = useCameraPermissions();
   const [photoUri, setPhotoUri] = useState<string | null>(null);
